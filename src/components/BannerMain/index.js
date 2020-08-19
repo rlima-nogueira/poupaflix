@@ -1,5 +1,5 @@
 import React from 'react';
-import { BannerContainer, Container, WatchButton, ImageBanner } from './styles';
+import { BannerContainer, Container, ImageBanner } from './styles';
 import banner from '../../assets/img/icon.png';
 
 export default function MainWrapper() {
