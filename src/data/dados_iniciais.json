@@ -1,0 +1,148 @@
+{
+  "categorias": [
+    {
+      "titulo": "Tesouro Direito",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Curso Trilha Financeira",
+          "description":"DSAUHDUASISDHAUSI",
+          "url": "https://youtu.be/XCYznMTp_eE"
+        },
+        {
+          "titulo": "Alecrim Dourado - Bia & Nino",
+          "url": "https://youtu.be/UfvLBGxduoc"
+        },
+        {
+          "titulo": "Dona Aranha - Galinha Pintadinha",
+          "url": "https://youtu.be/MuBgIfBR1kA"
+        },
+        {
+          "titulo": "Dó Ré Mi Fá - Galinha Pintadinha",
+          "url": "https://youtu.be/gjz9PM4iWWg"
+        },
+        {
+          "titulo": "SAMBALELÊ - Galinha Pintadinha",
+          "url": "https://youtu.be/zKOubVELVNw"
+        },
+        {
+          "titulo": "Pintinho Amarelinho - Bob Zoom",
+          "url": "https://youtu.be/NGYh8Lv56oc"
+        }
+      ]
+    },
+    {
+      "titulo": "Bancos Digitais",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Super Patrulha: Caminhão de bombeiro & carro de polícia",
+          "url": "https://youtu.be/bmZTjGwTw1E"
+        },
+        {
+          "titulo": "Os 3 Porquinhos",
+          "url": "https://www.youtube.com/watch?v=N84TDkRoG0o"
+        },
+        {
+          "titulo": "Bob, O Trem – A Aventura do Alfabeto",
+          "url": "https://youtu.be/wdmoHYtUa7M"
+        },
+        {
+          "titulo": "Masha e o Urso - Dia de Geleia",
+          "url": "https://youtu.be/JHlT5lVcmWE"
+        },
+        {
+          "titulo": "Shaun the Sheep - EP 21-30",
+          "url": "https://youtu.be/bg6vYLs5DKg"
+        }
+      ]
+    },
+    {
+      "titulo": "Fundos Imobiliários",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Renda Fixa",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Looney Tunes",
+          "url": "https://youtu.be/SPt9vWekqm0"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes para toda família",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Hotel Transilvânia - Trailer",
+          "url": "https://youtu.be/fWbs2GlUaO0"
+        },
+        {
+          "titulo": "Frozen",
+          "url": "https://youtu.be/EBEbqLvrf7w"
+        },
+        {
+          "titulo": "Divertidamente",
+          "url": "https://youtu.be/ukQeR3zYncw"
+        },
+        {
+          "titulo": "Moana",
+          "url": "https://youtu.be/85WM7lBEc6o"
+        },
+        {
+          "titulo": "Como Treinar O Seu Dragrão - Teaser Trailer Oficial",
+          "url": "https://youtu.be/uv1V9BOb2M8"
+        }
+      ]
+    }
+  ]
+}
