@@ -20,7 +20,6 @@ export const ImageChat = styled.img`
   margin-top: 100px;
   margin-left: 70px;
   max-width:80%;
-	
 `;
 
 export const ImageContainer = styled.section`
@@ -31,9 +30,10 @@ export const ImageContainer = styled.section`
 	background-size: cover;
 	background-position: center;
 	@media (max-width: 800px) {
+		background-image: url('../../assets/img/chat_mobile.png');
 		height: auto;
-		min-width: 50vh;
-		min-height: 100vh;
+		min-width: 80vh;
+		min-height: 80vh;
 	}
 	&:after,
 	&:before {
