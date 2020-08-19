@@ -4,8 +4,7 @@ import ReactDOM from 'react-dom';
 import {BrowserRouter, Switch, Route, Link} from 'react-router-dom';
 
 import Home from './pages/Home';
-import CadastroVideo from './pages/Cadastro/Video';
-import CadastroCategoria from './pages/Cadastro/Categoria';
+import Pouporquinho from './pages/Chatbot';
 
 import Error from './assets/img/error.png';
 
@@ -31,8 +30,7 @@ ReactDOM.render(
     <Switch>
       
       <Route path="/" exact component={ Home } />
-      <Route path="/cadastro/video" component= {CadastroVideo } />
-      <Route path="/cadastro/categoria" component= {CadastroCategoria} />
+      <Route path="/pouporquinho" component= {Pouporquinho } />
 
       <Route component= { paginaDeErro404 } />
 

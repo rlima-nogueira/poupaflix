@@ -14,7 +14,7 @@ export default function Menu(){
                 <img className="Logo" src={Logo} alt="Logo PoupaFlix"/>
             </Link>
 
-            <Button as={Link} className="ButtonLink" to="/cadastro/video"> 
+            <Button as={Link} className="ButtonLink" to="/pouporquinho"> 
                 Tire suas dúvidas no PoupaChat
             </Button>
         </nav>
