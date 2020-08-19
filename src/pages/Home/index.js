@@ -18,7 +18,6 @@ export default function Home() {
       />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
 
