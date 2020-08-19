@@ -74,7 +74,7 @@ Container.Span = styled.span`
 export const ImageBanner = styled.img`
   margin-top: 200px;
   margin-left: 100px;
-	max-width: 80%;
+	max-width: 70%;
 `;
 
 export const BannerContainer = styled.section`
