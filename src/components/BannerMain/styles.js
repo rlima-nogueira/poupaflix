@@ -74,7 +74,15 @@ Container.Span = styled.span`
 export const ImageBanner = styled.img`
   margin-top: 200px;
   margin-left: 100px;
-	max-width: 70%;
+  max-width: 70%;
+  @media (max-width: 800px) {
+	
+	margin-left: 45px;
+	margin-top: auto;
+  	
+  	
+	}
+	
 `;
 
 export const BannerContainer = styled.section`
@@ -86,6 +94,7 @@ export const BannerContainer = styled.section`
 	background-position: center;
 	@media (max-width: 800px) {
 		height: auto;
+		min-width: 50vh;
 		min-height: 50vh;
 	}
 	&:after,

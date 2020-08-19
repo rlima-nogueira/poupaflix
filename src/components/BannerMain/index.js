@@ -8,7 +8,7 @@ export default function MainWrapper() {
 		<Container>
 			<Container.Item>
 				<Container.Title>
-          <Container.Span>Plataforma para compartilhamento de vídeos sobre{' '}</Container.Span>
+          			<Container.Span>Plataforma para compartilhamento de vídeos sobre{' '}</Container.Span>
 					<Container.Span>Finanças</Container.Span>.
 				</Container.Title>
 			</Container.Item>
